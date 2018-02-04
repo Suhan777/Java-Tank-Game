@@ -43,7 +43,7 @@ public class Board_Prectise extends JPanel implements ActionListener, KeyListene
 	private String Player1;
 	private String Player2;
 	private int p2score = 0;
-	private int counttime = 120;
+	private int counttime = 240;
 	private boolean pause = false;
 	private boolean gameOver = false;
 	private boolean start = false;
